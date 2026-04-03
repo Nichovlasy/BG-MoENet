@@ -2,7 +2,7 @@
 
 ## Network Architecture
 
-![BG-MoE Net](asset\BG-MoE Net.jpg)
+![BG-MoE Net](https://github.com/Nichovlasy/BG-MoENet/blob/main/asset/BG-MoE%20Net.jpg)
 
 ## Quantitative Performance
 
@@ -20,7 +20,7 @@
 
 ## Results
 
-![Results](asset\Results.jpg)
+![Results](https://github.com/Nichovlasy/BG-MoENet/blob/main/asset/Results.jpg)
 
 ## Require 
 
