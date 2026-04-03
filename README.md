@@ -32,6 +32,7 @@ Please `pip install` the following packages:
 - torchvision>=0.18.1+cu121
 - mmcv>=2.2.0
 - mmsegmentation>=1.2.2
+- mmengine>=0.10.7
 - matplotlib>=3.10.6
 - numpy>=2.1.2
 - opencv>=4.12.0
