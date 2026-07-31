@@ -6,7 +6,7 @@
 
 ## Quantitative Performance
 
-| Models                                                       | Params(M) | FLOPs(G) | F1(%) | IoU(%) | Precision(%) | Recall(%) |
+| Models                                                       | Params(M) | FLOPs(G) | IoU(%) | F1(%) | Precision(%) | Recall(%) |
 | ------------------------------------------------------------ | --------- | -------- | ----- | ------ | ------------ | --------- |
 | [UNet](https://arxiv.org/pdf/1505.04597)                     | 31.04     | 218.97   | 52.95 | 69.24  | 75.76        | 63.75     |
 | [SegFormer-B0](https://proceedings.neurips.cc/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf) | 3.71      | 6.76     | 55.91 | 71.72  | 73.94        | 69.63     |
